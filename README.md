@@ -5,14 +5,14 @@
 </div>
 
 <!-- about me -->
-<div align="center">
-    <h2>🚀 About Me</h2>
-    <p>👋 Hello! I'm [Your Name], a passionate Full Stack Developer with a knack for creating dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I enjoy building scalable and efficient solutions that solve real-world problems.</p>
+<div align="left">
+    <h2 class="section-heading">🚀 About Me</h2>
+    <p>👋 Hello! I'm Farida Mullamitha, a passionate Full Stack Developer with a knack for creating dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I enjoy building scalable and efficient solutions that solve real-world problems.</p>
 </div>
 
 <!--tech and tools-->
-<h2 align="center">🛠️Languages and Tools:</h2>
-<p align="center">
+<h2 align="left" class="section-heading">🛠️ Languages and Tools</h2>
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>  
@@ -51,24 +51,43 @@
   </a>
 </p>
 
+<!--connect-->
+<div align="left">
+<h2 align="left" class="section-heading">📫 How to Reach Me</h2>
+<p>Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<div align="left">
+    <a href="mailto:faridamullamitha3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+  <a href="https://linkedin.com/in/farida-mullamitha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+<a href="https://github.com/farida-mullamitha" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=farida-mullamitha&style=for-the-badge" alt="Profile Views" />
+</div>
+
 
 <!-- github stats -->
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<div align="left">
+<h2 align="left" class="section-heading"> 💻 Github Stats</h2>
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
- <table align="center" width="100%" height="100%" >
+ <table align="left" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farida-mullamitha&theme=github_dark" alt="Farida's GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=farida-mullamitha&theme=merko" alt="Farida's Contribution Streak"/></td>
     </tr>
  </table>
 
- <table align="center" width="100%" height="100%" >
+ <table align="left" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farida-mullamitha&theme=github_dark" alt="Farida's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farida-mullamitha&theme=github_dark&utcOffset=10" alt="Farida's GitHub Stats"/>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farida-mullamitha&theme=github_dark" alt="Farida's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farida-mullamitha&theme=github_dark" alt="Farida's GitHub Stats"/></td>
+<!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farida-mullamitha&theme=github_dark" alt="Farida's GitHub Stats"/></td> -->
     </tr>
  </table>
 </div>
